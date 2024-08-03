@@ -12,7 +12,7 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="bg-gray-900 w-14 sm:w-20 md:w-24 lg:w-26 h-screen flex flex-col items-center shadow-lg">
+    <div className="bg-custom-bg w-14 sm:w-20 md:w-24 lg:w-26 h-screen flex flex-col items-center shadow-lg">
       <img
         className="w-4 sm:w-6 md:w-8 lg:w-10 pt-8 mb-8 sm:mb-10 md:mb-12 lg:mb-14"
         src={Logo}

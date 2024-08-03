@@ -5,6 +5,10 @@ import {
   faWallet,
   faBagShopping,
   faArrowRightFromBracket,
+  faMagnifyingGlass,
+  faEnvelope,
+  faGear,
+  faBell,
 } from "@fortawesome/free-solid-svg-icons";
 
 export const sideBarIcons = [
@@ -16,3 +20,5 @@ export const sideBarIcons = [
 ];
 
 export const logoutIcon = faArrowRightFromBracket;
+export const headerIcons = [faEnvelope, faGear, faBell];
+export const searchIcon = faMagnifyingGlass;

@@ -4,8 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        "custom-bg": "#1f2029",
         "gray-custom": "#a6a8ae",
         "blue-custom": "#7695fa",
+        "input-bg": "#292b2f",
+
+        "icon-bg": "rgba(68,70,74,0.8)",
+        "dashboard-bg": "#141316",
       },
       spacing: {
         20: "5rem",
